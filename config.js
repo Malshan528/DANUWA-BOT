@@ -17,10 +17,10 @@ const defaultConfig = {
   ALIVE_MSG: "*Hello👋 DANUWA-MD Is Alive Now😍*", // Change alive msg from here
   OPENAI_API_KEY: "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",// Add OPENAI API key here
   GEMINI_API_KEY: "AIzaSyBKOZBnTijcOnJnj1GHv40Z4zq3ritc7c8", // Add Gemini API key here
-  REMOVE_BG_API_KEY:"", // Add removebg API key here
+  REMOVE_BG_API_KEY:"t7oT5gnCbEVPGzkLsBCNcEcq", // Add removebg API key here
   WEATHER_API_KEY: "", // Add your weather API key here
-  BOT_OWNER: "94776121326", // Replace your bot owner number here with 94(country code)
-  ownerNumber: ["94776121326"], // Replace your bot owner number here (same as bot owner number)
+  BOT_OWNER: "94770293460", // Replace your bot owner number here with 94(country code)
+  ownerNumber: ["94770293460"], // Replace your bot owner number here (same as bot owner number)
   AUTO_STATUS_REACT: "true",
   AUTO_STATUS_REPLY: "true",
   AUTO_STATUS_SEEN: "true",
